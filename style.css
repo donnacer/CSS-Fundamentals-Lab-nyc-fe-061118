@@ -28,6 +28,10 @@ figcaption{
    float: left;
 }
  
+ div {
+  background-color: blue;
+  text-align:center;
+ }
   
 /*div{*/
 /*  background-color: #d3d3d3;*/
